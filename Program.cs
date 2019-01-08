@@ -6,7 +6,7 @@ namespace Build
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("호랑이 어흥");
+            Console.WriteLine("횽랭이 ㅎ");
         }
     }
 }
